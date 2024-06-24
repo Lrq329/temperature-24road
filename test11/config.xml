@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <!--别名配置-->
+  <channel>
+    <textbox1>dsb</textbox1>
+    <textbox2></textbox2>
+    <textbox3>dsb</textbox3>
+    <textbox4>dsb3</textbox4>
+    <textbox5>dsb</textbox5>
+    <textbox6>dsb2</textbox6>
+    <textbox7>dsb</textbox7>
+    <textbox8>dsb2</textbox8>
+    <textbox9>dsb</textbox9>
+    <textbox10>dsb2</textbox10>
+    <textbox11>dsb</textbox11>
+    <textbox12>dsb2</textbox12>
+    <textbox13>dsb</textbox13>
+    <textbox14>dsb2</textbox14>
+    <textbox15>dsb</textbox15>
+    <textbox16>dsb2</textbox16>
+    <textbox17>dsb</textbox17>
+    <textbox18>dsb2</textbox18>
+    <textbox19>dsb</textbox19>
+    <textbox20>dsb2</textbox20>
+    <textbox21>dsb</textbox21>
+    <textbox22>dsb2</textbox22>
+    <textbox23>dsb</textbox23>
+    <textbox24>dsb2</textbox24>
+  </channel>
+  <!--预警配置-->
+  <forewarning>
+    <low>20</low>
+    <high>30</high>
+  </forewarning>
+</config>
